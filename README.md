@@ -21,7 +21,7 @@ The corresponding vtable's scheme that is produced by the program is\
 
 
 Written in C++. Contains makefile in each folder. Use `make` to compile, `make run` to execute the program and `make clean` to remove the object files and the executable.
-
+ 
 
 **References** \
 [1] http://kaisar-haque.blogspot.gr/2008/07/c-accessing-virtual-table.html \
