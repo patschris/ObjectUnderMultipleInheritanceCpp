@@ -4,6 +4,7 @@ The purpose of this program is to show the object's layout under multiple inheri
 We examine two categories:
 - Multiple Inheritance
 
+Check the folder [Multiple inheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/tree/master/Multiple%20inheritance)
 ![ObjectMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/ObjectUnderMultipleInheritance.PNG)\
 The corresponding vtable is\
 ![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleInheritance.png)\
@@ -11,6 +12,7 @@ The corresponding vtable is\
 
 - Multiple Virtual Inheritance
 
+Check the folder [Multiple virtual inheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/tree/master/Multiple%20virtual%20inheritance)
 ![ObjectMultipleVirtualInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/ObjectUnderVirtualInheritance.PNG)\
 The corresponding vtable is\
 ![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleVirtualInheritance.png)\
