@@ -3,12 +3,14 @@
 The purpose of this program is to show the object's layout under multiple inheritance. Compile with the flag -fdump-class-hierarchy to produce the file that gives information about the class hierarchy and the vtables.
 We examine two categories:
 - Multiple Inheritance
+
 ![ObjectMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/ObjectUnderMultipleInheritance.PNG)\
 The corresponding vtable is\
 ![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleInheritance.png)\
 
 
 - Multiple Virtual Inheritance
+
 ![ObjectMultipleVirtualInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/ObjectUnderVirtualInheritance.PNG)\
 The corresponding vtable is\
 ![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleVirtualInheritance.png)\
