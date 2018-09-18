@@ -5,9 +5,9 @@ The purpose of this program is to show the object's layout under multiple inheri
 - **Multiple Inheritance**
 
 Check the folder [Multiple inheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/tree/master/Multiple%20inheritance)\
-![ObjectMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/ObjectUnderMultipleInheritance.PNG)\
+![ObjectMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/ObjectUnderMultipleInheritance.PNG)
 The corresponding vtable's scheme that is produced by the program is
-![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleInheritance.png)\
+![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleInheritance.png)
 
 
 
