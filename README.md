@@ -19,9 +19,9 @@ Check the folder [Multiple virtual inheritance](https://github.com/patschris/Obj
 The corresponding vtable's scheme that is produced by the program is\
 ![VtableMultipleInheritance](https://github.com/patschris/ObjectUnderMultipleInheritanceCpp/blob/master/VtableMultipleVirtualInheritance.png)
 
-
-Written in C++. Contains makefile in each folder. Use `make` to compile, `make run` to execute the program and `make clean` to remove the object files and the executable.
+Contains makefile in each folder. Use `make` to compile, `make run` to execute the program and `make clean` to remove the object files and the executable.
  
+Written in C++, Ubuntu 16.04
 
 **References** \
 [1] http://kaisar-haque.blogspot.gr/2008/07/c-accessing-virtual-table.html \
